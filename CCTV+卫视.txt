@@ -1,23 +1,23 @@
 央视频道,#genre#
-CCTV-1  综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
+CCTV-1  综合,https://epg.pw/stream/c0369a78749ab79f5fcf6db03cdd3f874ae28c1cbfff5a84e7a16ab50113ceb3.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
 CCTV-1  综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV-2  财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV-2  财经,https://epg.pw/stream/dfe57211592f17a19771814b314d9d88f37cb5f9c3002eef060fba7dbdf0c79b.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 CCTV-2  财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-CCTV-3  综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+CCTV-3  综艺,https://epg.pw/stream/b9e4bcab3aa6baafb2cba9e54cb2fb5bedb2b7be1ab1ec7836117d0b9e2bcdc7.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
 CCTV-3  综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
-CCTV-4  中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-4  中文国际,https://epg.pw/stream/a0b54b3d5b1ef412870d79ca536c07cefb7da0230a6e92e38f6d748ed0f356d9.m3u8#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-4  中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 CCTV-5  体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd#http://222.240.82.92:9901/tsfile/live/0005_1.m3u8#http://111.59.63.32:9901/tsfile/live/1012_1.m3u8
-CCTV-5  体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-CCTV-5+ 体育赛事,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-5  体育,https://epg.pw/stream/c6559ca66c6f97c7d3f5af3c2637e761f887aef3c04834c0545bcb0f7833fee2.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+CCTV-5+ 体育赛事,https://epg.pw/stream/98276546d99a49cc11dd0b9f8880df454f555d9beaf7e03bc2f9607843bc8aba.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV-6  电影,http://live.cooltv.top/tv/aishang.php?id=cctv6hd#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8#https://epg.pw/stream/9e7b8c4f196c5f8a8d3f10681835151ef52ad2a1e88b8cefe1da14e1a3d99733.m3u8
+CCTV-6  电影,https://epg.pw/stream/a8ba8d76854810c6bc00012e261d6c3cae3d91926d3c4b22d2e4dc9a047bc368.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8#https://epg.pw/stream/9e7b8c4f196c5f8a8d3f10681835151ef52ad2a1e88b8cefe1da14e1a3d99733.m3u8
 CCTV-6  电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-7  国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
 CCTV-7  国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
 CCTV-8  电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8#http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/index.m3u8
 CCTV-8  电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-CCTV-9  记录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd#http://117.169.124.149:8080/live/HD-8000k-1080P-cctv9/index.m3u8
+CCTV-9  记录,https://epg.pw/stream/6579cef8e1fdffd92afd763369117a43fc7d9f0f2dfbbc736fcd0cb49653ac9d.ctv#http://117.169.124.149:8080/live/HD-8000k-1080P-cctv9/index.m3u8
 CCTV-9  记录,http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV-10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10 科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
@@ -37,8 +37,8 @@ CCTV-17 农业农村,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
 CCTV-4K 超高清,https://epg.pw/stream/0377d2231e58602e9c86cb280180d88e5967374c213b621919ef238314adb987.ctv#http://159.75.85.63:5679/cctv4k.php
 CCTV-4K 超高清,https://epg.pw/stream/93ef6a3fd6fe0f7641a254fcceb3ece5f73798095651d460c1e81658700cff38.ctv
-CCTV-风云剧场,https://epg.pw/stream/bd2b5ebf9fb3da73d2ae35a7d88d00851a483c36b6cd69a2635706c52853e047.m3u8
-CCTV-风云剧场,https://epg.pw/stream/bd2b5ebf9fb3da73d2ae35a7d88d00851a483c36b6cd69a2635706c52853e047.m3u8
+CCTV-风云剧场,https://epg.pw/stream/0ab8c3cc22be4b2006b648460fe1296436f50551c7d5cfc08b5359a9eb89b940.m3u8
+CCTV-风云剧场,https://epg.pw/stream/0ab8c3cc22be4b2006b648460fe1296436f50551c7d5cfc08b5359a9eb89b940.m3u8
 CCTV-风云足球,https://epg.pw/stream/e4b1408fbcbd18d1779d861b87cda122d56a99b67147c8532a1f213cd87ff6a4.m3u8
 CCTV-风云足球,https://epg.pw/stream/e4b1408fbcbd18d1779d861b87cda122d56a99b67147c8532a1f213cd87ff6a4.m3u8
 CCTV-风云音乐,https://epg.pw/stream/e4a252d4d82c213c7d39bf761915b5238ebc009db692b1d096b93baab5ff52e1.m3u8
@@ -181,8 +181,8 @@ NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.
 NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
 NewTV中国功夫,http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
 NewTV中国功夫,http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
-NewTV怡伴健康,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-NewTV怡伴健康,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
+NewTV怡伴健康,https://epg.pw/stream/6ef799f62955c7b39b5938d6fa6660641d0d4fc3b129ec0db93dbe987b3869cd.m3u8
+NewTV怡伴健康,https://epg.pw/stream/6ef799f62955c7b39b5938d6fa6660641d0d4fc3b129ec0db93dbe987b3869cd.m3u8
 NewTV农业致富,http://39.135.138.58:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV农业致富,http://39.135.138.58:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV热播精选,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
@@ -193,9 +193,9 @@ NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 NewTV明星大片,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 NewTV炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
 NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
+NewTV海外剧场,https://epg.pw/stream/930d794f21595d344609aa651290a90a622d2a4d9f4a5bef1f6324d15097bc16.m3u8
 NewTV海外剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-NewTV海外剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV爱情喜剧,https://epg.pw/stream/302a7ce6d6c6a751b7e727ce86406ce63a80b634263380faa53c426f6c8dba6d.m3u8
 NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 
 其他频道,#genre#
@@ -312,4 +312,3 @@ CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224
 测试专线98,https://video2.51daao.com/btt1/2021/01/20210118/LaBrCyOb/index.m3u8
 测试专线99,https://video2.51daao.com/btt1/2021/01/20210118/FSIWDY1c/index.m3u8
 测试专线100,https://video2.51daao.com/btt1/2021/01/20210118/ai91voQi/index.m3u8
-
