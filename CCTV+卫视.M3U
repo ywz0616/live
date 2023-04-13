@@ -46,7 +46,7 @@ http://02
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际美洲" tvg-logo="http://ys-g.ysepan.com/618634028/218200158/x762I462285NTIjUPO1If1/CCTV4-%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E7%BE%8E%E6%B4%B2.png" group-title="央视频道",CCTV-4 中文国际美洲
 http://01
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4K 超高清
-http://159.75.85.63:5679/cctv4k.php
+https://epg.pw/stream/0377d2231e58602e9c86cb280180d88e5967374c213b621919ef238314adb987.ctv
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-风云剧场" tvg-logo="http://ys-c.ysepan.com/618634025/218200307/jUPO1Ij356J4355JFM8L74/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视频道",CCTV-风云剧场
 https://epg.pw/stream/0ab8c3cc22be4b2006b648460fe1296436f50551c7d5cfc08b5359a9eb89b940.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-风云足球" tvg-logo="http://ys-c.ysepan.com/618634025/218200309/jUPO1Ij356J4355JFM8N2a/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视频道",CCTV-风云足球
