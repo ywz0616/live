@@ -35,6 +35,9 @@ CCTV-16 奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/32212
 CCTV-16 奥林匹克,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8#http://39.135.138.58:18890/TVOD/88888888/224/3221226230/index.m3u8
 CCTV-17 农业农村,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
+CCTV-4 中文国际,https://epg.pw/stream/6bc340191e8313a74ef03f463476270f5b2d3057eef8f8abf801ad24a7436f53.m3u8
+CCTV-4 中文国际欧洲,
+CCTV-4 中文国际美洲,
 CCTV-4K 超高清,https://epg.pw/stream/0377d2231e58602e9c86cb280180d88e5967374c213b621919ef238314adb987.ctv#http://159.75.85.63:5679/cctv4k.php
 CCTV-4K 超高清,https://epg.pw/stream/93ef6a3fd6fe0f7641a254fcceb3ece5f73798095651d460c1e81658700cff38.ctv
 CCTV-风云剧场,https://epg.pw/stream/0ab8c3cc22be4b2006b648460fe1296436f50551c7d5cfc08b5359a9eb89b940.m3u8
@@ -312,3 +315,4 @@ CHC动作电影,http://111.20.41.248/dbiptv.sn.chinamobile.com/PLTV/88888888/224
 测试专线98,https://video2.51daao.com/btt1/2021/01/20210118/LaBrCyOb/index.m3u8
 测试专线99,https://video2.51daao.com/btt1/2021/01/20210118/FSIWDY1c/index.m3u8
 测试专线100,https://video2.51daao.com/btt1/2021/01/20210118/ai91voQi/index.m3u8
+
