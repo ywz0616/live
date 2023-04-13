@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+#EXT-X-SUB-URL https://github.moeyy.xyz/https://raw.githubusercontent.com/ywz0616/live/main/CCTV+%E5%8D%AB%E8%A7%86.M3U
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="http://ys-l.ysepan.com/618634015/218200199/kSQM5Ho356J4353J3M8M42/CCTV-1%20%E7%BB%BC%E5%90%88.png" group-title="央视频道",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#https://epg.pw/stream/c0fee8c4ea1b53dc28b0822285a5a8075a6638635c4e057e595013a35da536e7.m3u8
