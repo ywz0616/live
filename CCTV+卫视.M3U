@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://github.moeyy.xyz/https://raw.githubusercontent.com/ywz0616/live/main/CCTV+%E5%8D%AB%E8%A7%86.M3U
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="http://ys-l.ysepan.com/618634015/218200199/kSQM5Ho356J4353J3M8M42/CCTV-1%20%E7%BB%BC%E5%90%88.png" group-title="央视频道",CCTV-1 综合
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#https://epg.pw/stream/c0fee8c4ea1b53dc28b0822285a5a8075a6638635c4e057e595013a35da536e7.m3u8
@@ -39,11 +39,11 @@ http://39.134.115.163:8080/PLTV-/88888910/224/3221225641/index.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="http://ys-j.ysepan.com/618634044/218174659/q74296H36H7L47kVNL6L9e/CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png" group-title="央视频道",CCTV-17 农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4 中文国际
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际" tvg-logo="http://ys-g.ysepan.com/618634027/218200156/jUPO1Ir883G546146PU43f/CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png" group-title="央视频道",CCTV-4 中文国际
 https://epg.pw/stream/6bc340191e8313a74ef03f463476270f5b2d3057eef8f8abf801ad24a7436f53.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际欧洲" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4 中文国际欧洲
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际欧洲" tvg-logo="http://ys-g.ysepan.com/618634028/218200159/x762I462285NTJjUPO1If9/CCTV4-%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2.png" group-title="央视频道",CCTV-4 中文国际欧洲
 http://02
-#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际美洲" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4 中文国际美洲
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-4 中文国际美洲" tvg-logo="http://ys-g.ysepan.com/618634028/218200158/x762I462285NTIjUPO1If1/CCTV4-%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E7%BE%8E%E6%B4%B2.png" group-title="央视频道",CCTV-4 中文国际美洲
 http://01
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4K 超高清
 http://159.75.85.63:5679/cctv4k.php
