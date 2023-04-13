@@ -67,6 +67,10 @@ https://epg.pw/stream/7abdcc231569431e7b3de4de360dfd05aad143976139320bdc7d3d01c6
 https://epg.pw/stream/d1c9c4e5246a4513add9530f7fd6c58ac21837349407aaeda5d3fa0eb628b187.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-高尔夫.网球" tvg-logo="http://ys-l.ysepan.com/618634039/218201665/lTRK2Mo554H64365KML315/CCTV-%E9%AB%98%E5%B0%94.%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视频道",CCTV-高尔夫.网球
 https://epg.pw/stream/71898aa9f4eab7adc5a2d4a9d39f8427f4f0dc0eb7502a56bc0cd51d187312d2.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-电视指南" tvg-logo="http://ys-g.ysepan.com/618634043/218201782/kVNL6Lt581G784463P3290/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视频道",CCTV-电视指南
+https://epg.pw/stream/2daf0af1c3bc91b809345469d08587f675289eddf3baa9478973898d3d09d012.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-兵器科技" tvg-logo="http://ys-g.ysepan.com/618634043/218201781/kVNL6Lt581G784463P2T70/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="央视频道",CCTV-兵器科技
+https://epg.pw/stream/8dfdc66e933413a46cba984f25b036690aa0fe4665015d21a6818345c6523ceb.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="http://ys-j.ysepan.com/618634016/218174682/o49563I47F5QJIkSQM5Hc5/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
