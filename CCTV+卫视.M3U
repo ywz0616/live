@@ -4,9 +4,9 @@
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="http://ys-l.ysepan.com/618634015/218200199/kSQM5Ho356J4353J3M8M42/CCTV-1%20%E7%BB%BC%E5%90%88.png" group-title="央视频道",CCTV-1 综合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#https://epg.pw/stream/c0fee8c4ea1b53dc28b0822285a5a8075a6638635c4e057e595013a35da536e7.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="http://ys-j.ysepan.com/618634042/218174642/p66543K65G6NJkVNL6L17/CCTV-2%20%E8%B4%A2%E7%BB%8F.png" group-title="央视频道",CCTV-2 财经
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8#https://epg.pw/stream/eaed76e4fbfb8c7a3fa08312a88d6eb35eb1390f1a24723e9854ba71fc915ef2.ctv
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="http://ys-j.ysepan.com/618634042/218174643/p66543K65G6NKkVNL6L63/CCTV-3%20%E7%BB%BC%E8%89%BA.png" group-title="央视频道",CCTV-3 综艺
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="http://ys-j.ysepan.com/618634042/218174644/p66543K65G6NLkVNL6L20/CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png" group-title="央视频道",CCTV-4 中文国际
@@ -42,11 +42,24 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-4K 超高清" tvg-logo="http://ys-j.ysepan.com/618634042/218174645/p66543K65G6NMkVNL6L66/CCTV-4K%20%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV-4K 超高清
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-风云剧场" tvg-logo="http://ys-c.ysepan.com/618634025/218200307/jUPO1Ij356J4355JFM8L74/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视频道",CCTV-风云剧场
-http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
+https://epg.pw/stream/eaed76e4fbfb8c7a3fa08312a88d6eb35eb1390f1a24723e9854ba71fc915ef2.ctv
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-风云足球" tvg-logo="http://ys-c.ysepan.com/618634025/218200309/jUPO1Ij356J4355JFM8N2a/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视频道",CCTV-风云足球
-http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
+https://epg.pw/stream/e4b1408fbcbd18d1779d861b87cda122d56a99b67147c8532a1f213cd87ff6a4.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-风云音乐" tvg-logo="http://ys-c.ysepan.com/618634025/218200308/jUPO1Ij356J4355JFM8Mbe/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="央视频道",CCTV-风云音乐
-http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+https://epg.pw/stream/e4a252d4d82c213c7d39bf761915b5238ebc009db692b1d096b93baab5ff52e1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-第一剧场" tvg-logo="http://ys-c.ysepan.com/618634025/218200306/jUPO1Ij356J4355JFM8Kea/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视频道",CCTV-第一剧场
+https://epg.pw/stream/68e220ee9c4a6c0271d41f3589d88c6663e0011236b86bf96ba56e9df0f545ec.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-怀旧剧场" tvg-logo="http://ys-c.ysepan.com/618634026/218200310/r495H3547FGQ7UjUPO1If6/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视频道",CCTV-怀旧剧场
+https://epg.pw/stream/bd2b5ebf9fb3da73d2ae35a7d88d00851a483c36b6cd69a2635706c52853e047.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-女性时尚" tvg-logo="http://ys-c.ysepan.com/618634026/218200311/r495H3547FGQ83jUPO1I2f/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视频道",CCTV-女性时尚
+https://epg.pw/stream/d5a0004b3d67563d3746d95669e556fba572a62ab60d7b7e7e7b7a1a540f906f.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-世界地理" tvg-logo="http://ys-c.ysepan.com/618634026/218200312/r495H3547FGQ84jUPO1Ib4/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="央视频道",CCTV-世界地理
+https://epg.pw/stream/2b5afde1f6e8bfb4299466adc88b2cec2381431d50131724f45ab7420c458fda.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-央视文化精品" tvg-logo="http://ys-c.ysepan.com/618634027/218200313/jUPO1Ig883G5463GKP6478/CCTV-%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视频道",CCTV-央视文化精品
+https://epg.pw/stream/7abdcc231569431e7b3de4de360dfd05aad143976139320bdc7d3d01c657e1be.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-央视台球" tvg-logo="http://ys-c.ysepan.com/618634027/218200314/jUPO1Ig883G5463GKP6537/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视频道",CCTV-央视台球
+https://epg.pw/stream/d1c9c4e5246a4513add9530f7fd6c58ac21837349407aaeda5d3fa0eb628b187.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="http://ys-j.ysepan.com/618634016/218174682/o49563I47F5QJIkSQM5Hc5/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="http://ys-j.ysepan.com/618634012/218174661/p66543K65G7N74kSQM5Ha1/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",北京卫视
