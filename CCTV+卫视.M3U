@@ -59,6 +59,8 @@ https://epg.pw/stream/2b5afde1f6e8bfb4299466adc88b2cec2381431d50131724f45ab7420c
 https://epg.pw/stream/7abdcc231569431e7b3de4de360dfd05aad143976139320bdc7d3d01c657e1be.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV-央视台球" tvg-logo="http://ys-c.ysepan.com/618634027/218200314/jUPO1Ig883G5463GKP6537/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视频道",CCTV-央视台球
 https://epg.pw/stream/d1c9c4e5246a4513add9530f7fd6c58ac21837349407aaeda5d3fa0eb628b187.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV-高尔夫.网球" tvg-logo="http://ys-l.ysepan.com/618634039/218201665/lTRK2Mo554H64365KML315/CCTV-%E9%AB%98%E5%B0%94.%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视频道",CCTV-高尔夫.网球
+https://epg.pw/stream/71898aa9f4eab7adc5a2d4a9d39f8427f4f0dc0eb7502a56bc0cd51d187312d2.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="http://ys-j.ysepan.com/618634016/218174682/o49563I47F5QJIkSQM5Hc5/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
