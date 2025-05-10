@@ -1,4 +1,4 @@
-央视,#genre#
+👉央视,#genre#
 CCTV-1综合,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233701/index.m3u8
 CCTV-2财经,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233718/index.m3u8
 CCTV-3综艺,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233715/index.m3u8
@@ -91,7 +91,7 @@ CCTV13,http://39.164.160.249:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&
 CCTV14,http://39.164.160.249:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://39.164.160.249:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
-卫视,#genre#
+👉卫视,#genre#
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -2984,7 +2984,7 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
-👙生活片_55221100,#genre#
+👙生活片_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
 FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
 FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
