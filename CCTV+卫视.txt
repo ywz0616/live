@@ -130,11 +130,18 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CCTV-5体育,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724/index.m3u8
 CCTV-5+体育赛事,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724/index.m3u8
 
+
 🎮游戏频道,#genre#
+
 
 🎬电影频道,#genre#
 
+
+🏛经典剧场,#genre#
+
+
 🎶怀旧点唱,#genre#
+
 
 👙测试①_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
