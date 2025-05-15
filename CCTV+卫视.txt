@@ -144,7 +144,41 @@ CCTV-8电视剧,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233721/ind
 
 🎶怀旧点唱,#genre#
 CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index.m3u8
-
+孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
+孟庭苇-你究竟有多少个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
+裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
+张学友-只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
+周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
+周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
+陈慧娴-傻女(演唱会),http://em.21dtv.com/songs/60037531.mkv
+陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
+陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
+成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029219.mkv
+成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029222.mkv
+成龙-男儿当自强(演唱会),http://em.21dtv.com/songs/60030886.mkv
+刘德华+林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029089.mkv
+刘德华-缠绵(演唱会),http://em.21dtv.com/songs/60012256.mkv
+刘德华-开心的马骝(演唱会),http://em.21dtv.com/songs/60025029.mkv
+刘德华-漫步人生路,http://em.21dtv.com/songs/60070906.mkv
+刘德华-美丽的一天,http://em.21dtv.com/songs/60029247.mkv
+刘德华-亲爱的小孩,http://em.21dtv.com/songs/60069725.mkv
+刘德华-如果有一天(演唱会),http://em.21dtv.com/songs/60036969.mkv
+刘德华-十年(演唱会),http://em.21dtv.com/songs/60038982.mkv
+刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
+草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
+许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
+许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
+杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
+杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
+叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
 
 👙测试①_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
