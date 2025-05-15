@@ -179,6 +179,21 @@ CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index
 杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
 叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
+张学友-李香兰（演唱会）,https://cloud-cdn.yinyuetai.com/9aa6c7f0c67871ed9ef625b7edcb0102/223a57e5381622fe373a4e315729b73d-hd.mp4?w=854&h=480&sign=1747284018-ubrj0kqtp7ccl3356pge2uw0nswlkvol91hf37bm930xmlrigwe62gskre73xq5x0d70p77i502uyms1f7-0-5bc71cc316574cf6aeee487a7c37d775
+张学友-心如刀割,https://cloud-cdn.yinyuetai.com/529279e0c68371edaad735a6ecca0102/3ed3ffcf6dfae8797a7b37b66bde7450-hd.mp4?w=854&h=480&sign=1747284018-q4sf74cbnbtjogv0xim2sarhrrg6v3-0-177f8d7ff208c0eba5d720bffcbb7f4c
+Michael Jackson-Blood On The Dance Floor,https://cloud-cdn.yinyuetai.com/8fc14940f93771ed868816b5feac0102/1814967a39bd71cae473340a30304e0e-hd.mp4?w=1920&h=1080&sign=1747284531-fblptvvo7du9qyh1cvlff7ky6pta0sg3a5j9pii3d44xba4qed6csnuijnil6lj1bqdwowzdfk2iupdocm88d4k2mj05k5rgd3-0-1973f67e9098cac9b94b0fad146d1c3c
+迈克尔杰克逊1995 MTV音乐颁奖完整版,https://mv6.music.tc.qq.com/A0C1975701D1812A686E0FA47A24DDEA88AB69409D10B254B08B0573CD5E9A00EEBF5B084D6490B50E15C93CDFE6FD49ZZqqmusic_default__v21ea0f986/qmmv_0b53heaaqaaafuai6ud7wzrvioiaba4qacca.f9934.m3u8
+mj,https://us-xpc5.xpccdn.com/31356f21-7021-4f97-88f3-f93a4eb715ef.mp4?j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%222ew3i5410vbrmaowbyzf%22%2C%22ip%22%3A%22171.40.33.180%2C111.170.166.115%22%7D
+Michael Jackson-Dangerous,https://mv6.music.tc.qq.com/B32EEB21BDF3EF76F88AAF21F49EF7FA2E7DB61F3CD381AA5E73176CE8C54D3199B967A44B74E6096CE5A44935F8A030ZZqqmusic_default__v215192fdc/qmmv_0b537maaaaaakyapb736azrvj6yaad5qaaca.f9924.m3u8
+Michael Jackson-Thriller,https://mv6.music.tc.qq.com/B0903311FD18AF10BCEF2FC68D471581A22734BF46138707C9A77096C383DABFBD210D6C6A0F85F82BEE959C6232DB00ZZqqmusic_default__v21ea0f986/qmmv_0b53gmai4aaaayairaz6d5sfimyaryzqbdsa.f9934.m3u8
+Michael Jackson-Beat It,https://mv6.music.tc.qq.com/823CA91A03978770F6FF4ED87EB1274020B851C5E0213909F7F9EA59BC2616AAFB929B7627648220EFFE001595C04AC6ZZqqmusic_default__v215192fdc/qmmv_0b53hqaaaaaaciaamdz6gzsfipaaaa6aaaca.f9934.m3u8
+Michael Jackson-Smooth Criminal,https://mv6.music.tc.qq.com/A23E25C2C1E8DAA560F5BA2616AC7DF7B5CA4EA09AFAC188A143A62C444ADA0202CE027B858180B793599A8044393F60ZZqqmusic_default__v215192fdc/qmmv_0a6b5tkub4gf4tiabeeaydioaqfvjuujrshubg7tjaaq6ayibugq.f9914.m3u8
+张国荣-1989告别乐坛演唱会 (Live),https://mv6.music.tc.qq.com/0189A502F89F7C19DA4A0562539AFC073F7DF069823A730CED7DFB1D5A7464855EEF6719EC5E5A826FE1CF8B313A5C4BZZqqmusic_default__v21ea0f986/qmmv_0b53amaaeaaaniaahleaabrviayaaibqaasa.f9934.m3u8
+张国荣-当年情,https://mv6.music.tc.qq.com/A06BB853814E77D292D7A367C7C0032A70F51C7E832AF1A9A491A5301328218DDE318A1392B83932806BE045EFC9F963ZZqqmusic_default__v21ea0f986/qmmv_0b53aeaaaaaah4apsyt5dfrviaiaaaaqaaca.f9934.m3u8
+谢霆锋-逆行,https://mv6.music.tc.qq.com/E680B8976F32960910AE7D4F91002BCE5B3A9E27ACFE878A950509650A4387D5138611F48A2FAAA633EF40495F4F2DCEZZqqmusic_default__v215192fdc/qmmv_0b53ceabwaaa6mansgmq2vtvieiadmiqag2a.f9934.m3u8
+谢霆锋-谢谢你的爱1999,https://mv6.music.tc.qq.com/95AFACA242D1E9677BA2822C034460FCF51FE6869304FCF5FFED38F76B2E14DDAD23D5F1CB165C5261BF505006F8BE02ZZqqmusic_default__v21ea0f986/qmmv_0a6bjj6yayefmrqnbudqydalaabvfxlh77gh4tr6jyba6diabqcq.f9924.m3u8
+谢霆锋-今生共相伴 (Live),https://mv6.music.tc.qq.com/2F9FFC3F3C6375C38C22028D30ACE12E2DA89B22D0EB0528A44849B92CF1950C3D417B1E0F60B5EF61ABE5DBE7138E0DZZqqmusic_default__v215192fdc/qmmv_0b53meabmaaaceamv6lp3btfiyiaczqqafsa.f9934.m3u8
+林俊杰-江南,https://mv6.music.tc.qq.com/35805B0A9D1F4B4BE4A858B0F89938789B43402C84F44EEED9EFFCA8567D795C31E9F06719BB0540A94B690F3D5B05F4ZZqqmusic_default__v21ea0f986/qmmv_0b53eiaaaaaa3yanvad5bfrviiqaaaraaaca.f9934.m3u8
 
 👙测试①_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
