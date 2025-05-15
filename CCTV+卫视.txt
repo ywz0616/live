@@ -144,56 +144,51 @@ CCTV-8电视剧,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233721/ind
 
 🎶怀旧点唱,#genre#
 CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index.m3u8
-孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
-孟庭苇-你究竟有多少个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
-裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
-张学友-只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
-周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
-周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
-陈慧娴-傻女(演唱会),http://em.21dtv.com/songs/60037531.mkv
-陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
-陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
-陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
-成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029219.mkv
-成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029222.mkv
-成龙-男儿当自强(演唱会),http://em.21dtv.com/songs/60030886.mkv
-刘德华+林子祥-每一个晚上(演唱会),http://em.21dtv.com/songs/60029089.mkv
-刘德华-缠绵(演唱会),http://em.21dtv.com/songs/60012256.mkv
-刘德华-开心的马骝(演唱会),http://em.21dtv.com/songs/60025029.mkv
-刘德华-漫步人生路,http://em.21dtv.com/songs/60070906.mkv
-刘德华-美丽的一天,http://em.21dtv.com/songs/60029247.mkv
-刘德华-亲爱的小孩,http://em.21dtv.com/songs/60069725.mkv
-刘德华-如果有一天(演唱会),http://em.21dtv.com/songs/60036969.mkv
-刘德华-十年(演唱会),http://em.21dtv.com/songs/60038982.mkv
-刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
-草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
-草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
-草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
-许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
-许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
-许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
-许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
-许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
-杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
-杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
-叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
-叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
-张学友-李香兰（演唱会）,https://cloud-cdn.yinyuetai.com/9aa6c7f0c67871ed9ef625b7edcb0102/223a57e5381622fe373a4e315729b73d-hd.mp4?w=854&h=480&sign=1747284018-ubrj0kqtp7ccl3356pge2uw0nswlkvol91hf37bm930xmlrigwe62gskre73xq5x0d70p77i502uyms1f7-0-5bc71cc316574cf6aeee487a7c37d775
-张学友-心如刀割,https://cloud-cdn.yinyuetai.com/529279e0c68371edaad735a6ecca0102/3ed3ffcf6dfae8797a7b37b66bde7450-hd.mp4?w=854&h=480&sign=1747284018-q4sf74cbnbtjogv0xim2sarhrrg6v3-0-177f8d7ff208c0eba5d720bffcbb7f4c
-Michael Jackson-Blood On The Dance Floor,https://cloud-cdn.yinyuetai.com/8fc14940f93771ed868816b5feac0102/1814967a39bd71cae473340a30304e0e-hd.mp4?w=1920&h=1080&sign=1747284531-fblptvvo7du9qyh1cvlff7ky6pta0sg3a5j9pii3d44xba4qed6csnuijnil6lj1bqdwowzdfk2iupdocm88d4k2mj05k5rgd3-0-1973f67e9098cac9b94b0fad146d1c3c
-迈克尔杰克逊1995 MTV音乐颁奖完整版,https://mv6.music.tc.qq.com/A0C1975701D1812A686E0FA47A24DDEA88AB69409D10B254B08B0573CD5E9A00EEBF5B084D6490B50E15C93CDFE6FD49ZZqqmusic_default__v21ea0f986/qmmv_0b53heaaqaaafuai6ud7wzrvioiaba4qacca.f9934.m3u8
-mj,https://us-xpc5.xpccdn.com/31356f21-7021-4f97-88f3-f93a4eb715ef.mp4?j=%7B%22userId%22%3A0%2C%22deviceId%22%3A%222ew3i5410vbrmaowbyzf%22%2C%22ip%22%3A%22171.40.33.180%2C111.170.166.115%22%7D
-Michael Jackson-Dangerous,https://mv6.music.tc.qq.com/B32EEB21BDF3EF76F88AAF21F49EF7FA2E7DB61F3CD381AA5E73176CE8C54D3199B967A44B74E6096CE5A44935F8A030ZZqqmusic_default__v215192fdc/qmmv_0b537maaaaaakyapb736azrvj6yaad5qaaca.f9924.m3u8
-Michael Jackson-Thriller,https://mv6.music.tc.qq.com/B0903311FD18AF10BCEF2FC68D471581A22734BF46138707C9A77096C383DABFBD210D6C6A0F85F82BEE959C6232DB00ZZqqmusic_default__v21ea0f986/qmmv_0b53gmai4aaaayairaz6d5sfimyaryzqbdsa.f9934.m3u8
-Michael Jackson-Beat It,https://mv6.music.tc.qq.com/823CA91A03978770F6FF4ED87EB1274020B851C5E0213909F7F9EA59BC2616AAFB929B7627648220EFFE001595C04AC6ZZqqmusic_default__v215192fdc/qmmv_0b53hqaaaaaaciaamdz6gzsfipaaaa6aaaca.f9934.m3u8
-Michael Jackson-Smooth Criminal,https://mv6.music.tc.qq.com/A23E25C2C1E8DAA560F5BA2616AC7DF7B5CA4EA09AFAC188A143A62C444ADA0202CE027B858180B793599A8044393F60ZZqqmusic_default__v215192fdc/qmmv_0a6b5tkub4gf4tiabeeaydioaqfvjuujrshubg7tjaaq6ayibugq.f9914.m3u8
-张国荣-1989告别乐坛演唱会 (Live),https://mv6.music.tc.qq.com/0189A502F89F7C19DA4A0562539AFC073F7DF069823A730CED7DFB1D5A7464855EEF6719EC5E5A826FE1CF8B313A5C4BZZqqmusic_default__v21ea0f986/qmmv_0b53amaaeaaaniaahleaabrviayaaibqaasa.f9934.m3u8
-张国荣-当年情,https://mv6.music.tc.qq.com/A06BB853814E77D292D7A367C7C0032A70F51C7E832AF1A9A491A5301328218DDE318A1392B83932806BE045EFC9F963ZZqqmusic_default__v21ea0f986/qmmv_0b53aeaaaaaah4apsyt5dfrviaiaaaaqaaca.f9934.m3u8
-谢霆锋-逆行,https://mv6.music.tc.qq.com/E680B8976F32960910AE7D4F91002BCE5B3A9E27ACFE878A950509650A4387D5138611F48A2FAAA633EF40495F4F2DCEZZqqmusic_default__v215192fdc/qmmv_0b53ceabwaaa6mansgmq2vtvieiadmiqag2a.f9934.m3u8
-谢霆锋-谢谢你的爱1999,https://mv6.music.tc.qq.com/95AFACA242D1E9677BA2822C034460FCF51FE6869304FCF5FFED38F76B2E14DDAD23D5F1CB165C5261BF505006F8BE02ZZqqmusic_default__v21ea0f986/qmmv_0a6bjj6yayefmrqnbudqydalaabvfxlh77gh4tr6jyba6diabqcq.f9924.m3u8
-谢霆锋-今生共相伴 (Live),https://mv6.music.tc.qq.com/2F9FFC3F3C6375C38C22028D30ACE12E2DA89B22D0EB0528A44849B92CF1950C3D417B1E0F60B5EF61ABE5DBE7138E0DZZqqmusic_default__v215192fdc/qmmv_0b53meabmaaaceamv6lp3btfiyiaczqqafsa.f9934.m3u8
-林俊杰-江南,https://mv6.music.tc.qq.com/35805B0A9D1F4B4BE4A858B0F89938789B43402C84F44EEED9EFFCA8567D795C31E9F06719BB0540A94B690F3D5B05F4ZZqqmusic_default__v21ea0f986/qmmv_0b53eiaaaaaa3yanvad5bfrviiqaaaraaaca.f9934.m3u8
+薛之谦 - 演员，https://mvwebfs.tx.kugou.com/202505151411/210329f54bc200d5766cec60c75d0003/v2/247048d2c88accdd57837b52f177772b/G098/M09/03/04/QpQEAFkjFWeAfDx0BbBPyVcUhmk741.mp4
+薛之谦 - 刚刚好，https://mvwebfs.kugou.com/202505151413/7a28a57192c1a7013078a08430fb2805/v2/e731b55ecfe39cfcc051f514bb1a1515/G099/M06/11/11/Q5QEAFkl_XGAT_BDBdRScefykjs821.mp4
+薛之谦 - 传说，https://mvwebfs.kugou.com/202505151418/b65ea5f7058ea5b7d76eb786da2ca6a9/v2/d4a537f71091a90efc915b9d2c51aec7/G142/M00/1A/08/bpQEAFuu5TmAe2FsB-R8LS4l8Qc528.mp4
+薛之谦 - 丑八怪，https://mvwebfs.tx.kugou.com/202505151419/cb11308f669a9b522ae7820aff1c454f/v2/ffc95b99efea8b22274c65ec14b26e91/G080/M07/12/03/MJQEAFhuWFSAUVtABbdIvwjcZ2w981.mp4
+薛之谦 - 初学者，https://mvwebfs.kugou.com/202505151421/95a313567c719c7d1fdbcae6a634d93f/v2/521d7fae507c824eda1096feebf4ea69/G084/M0A/07/11/NJQEAFs_WQOAWmMJCD5SNnpyVJI945.mp4
+薛之谦 - 我好像在哪见过你，https://mvwebfs.kugou.com/202505151426/fce344ecfca560ef1b2d3705eaee3c77/KGTX/CLTX002/302c674f0c87ed61927b5fd12da6a040.mp4
+薛之谦&张信哲 - 王子公主https://mvwebfs.kugou.com/202505151429/81de94419edc17707968a88e869a16ec/v2/67027e327afb446d46ec8eaeda09eb25/G098/M03/1D/01/AocBAFj3FmaAFJxFA30glt4ME20872.mp4
+谢霆锋-活着viva，https://mvwebfs.kugou.com/202505151432/236fa8c9107b3a527dbe61cba2671b18/v2/a0f524a2ce6f73ae4348d0826fc077f0/G189/M0A/0E/11/XYcBAF4LUueAOOIKBvOKBv_RKDg553.mp4
+谢霆锋-谢谢你的爱1999,https://mvwebfs.kugou.com/202505151433/794f438f053e5dd0612eae6677ab763e/KGTX/CLTX002/9106e1eb78c93dc757a73c90b58dcc7f.mp4
+谢霆锋 - 活火山,https://mvwebfs.tx.kugou.com/202505151435/12476acc20170e9ba2135281603013b2/v2/e4bafbd9d9e9d7147b6e61b0534b9491/G249/M05/1F/11/mYcBAF_nLT2AD1SYB-Zq2YHHX8Q967.mp4
+谢霆锋 - 281公里,https://mvwebfs.kugou.com/202505151438/6ee6e92d1204388e0a9a8e6737280516/v2/076c0def298b11044c5304a35ef4937d/G182/M0A/09/05/VocBAF4LTcCAdC0oB4yugnlehCI449.mp4
+谢霆锋 - 281公里,https://mvwebfs.tx.kugou.com/202505151439/264dd6d776685c425c2068a5004812d1/v2/2b9e3858d4ba8402b50cd52cdc10e119/G248/M06/0E/17/mIcBAF_nK0GALqHaB5GQqHR9FyM209.mp4
+谢霆锋-应为爱所以爱，https://mvwebfs.tx.kugou.com/202505151441/64a6eeaa2f47c7060edad26503578d5d/v2/01bb1c09ba1d8486383acd11872fff8a/G089/M00/10/10/mQ0DAFto1E-AFySlAhV9Npogcqo060.mp4
+郑伊健 - Beautiful Day,https://mvwebfs.tx.kugou.com/202505151445/49a47b663cbe7f31a79e82095e680fce/v2/cd446e875c22b4e5a3dd7a39d3fb9fde/G136/M03/0D/01/aJQEAFtqu9uAPEN2BKlvHaZrtBs694.mp4
+郑伊健 - 风云,https://mvwebfs.tx.kugou.com/202505151445/8b382cc870c44c852e3cf24cbe0238c6/v2/47945c51ad2851d3d117afe071a2ca3c/G135/M02/03/0D/Z5QEAFtqnXSAAm02B9wbW5l1z5w457.mp4
+郑伊健 - 太阳出来了,https://mvwebfs.kugou.com/202505151448/6ce0133a4de80ecaee91f587a79e65ef/v2/40345e2d0afd4eed75c12dea8792005a/G138/M09/15/08/yg0DAFtquC2ANnYeCQnEZ1FJ2YU083.mp4
+郑伊健 - 陪你飞,https://mvwebfs.tx.kugou.com/202505151449/c1add0e5e502ce6ea7819f1dce64e0f5/v2/5c15ebcb4e73a616d67bfbba8ea33294/G100/M07/1E/04/BIcBAFu8UpCAKG9QBEXLmLSVPbM945.mp4
+郑伊健 - 心照,https://mvwebfs.kugou.com/202505151450/482dd8c8c1da9c63c5d2fde8b13d4065/v2/39746fe27b098cc2753cab465d8d6c5a/G031/M04/1B/13/_5MEAFXyNtWARaWtBHHp11yXkjE329.mp4
+郑伊健 - 同一秒,https://mvwebfs.kugou.com/202505151456/88a5e7df0596551f5c40af410b6ebfd4/v2/8f48844ca70cf4208c50b440b4dc7646/G139/M02/0A/03/yw0DAFtqko-AXtx5A_J9OE2DOJ4854.mp4
+郑伊健 - 一生爱你一个,https://mvwebfs.tx.kugou.com/202505151457/847fec3c268e7ab8fe1ff631cb149219/v2/01c42053830dceba10ace7b1b80e41af/G031/M07/1E/07/v4YBAFXyNkaAdbXTBcseJ6mAzio515.mp4
+郑伊健 - 情路狂奔,https://mvwebfs.tx.kugou.com/202505151455/a711537362e7529b81a034cb6f342d2b/v2/2cd11153509b46101bff905ec46b0b24/G032/M08/03/04/YA0DAFXyNj6AMAWMBgwpQagsLio581.mp4
+郑伊健 - 友情岁月,https://mvwebfs.tx.kugou.com/202505151451/752ebd1b15d226bdab29367f23578ea8/v2/21a798c4b963d8d58537c3866830d17b/G091/M03/16/14/-4YBAFtqkheAMIgCBUXkbAK1oVA458.mp4
+郑伊健 - 友情岁月,https://mvwebfs.tx.kugou.com/202505151453/17e50b3ccc8b3d309ea19534848fb23f/v2/9b1a747aabbb8203dcf94c9662fafa50/G057/M02/10/1B/eQ0DAFaFU8GAB_B9AkA_xWfTr20555.mp4
+陈奕迅 - 明年今日,https://mvwebfs.tx.kugou.com/202505151459/e7484ed404dbd4b00e0e6e07780535cf/v2/b447d1ea8c6a7181d7410457224052b9/G139/M09/00/04/K4cBAFtrT7SAMUttBjlmgioXp5I213.mp4
+陈奕迅 - 伤信,https://mvwebfs.tx.kugou.com/202505151502/a7167d2598d5ac758e78f01a535cf4bd/v2/db6aaac6f28e871d2b26d8485b472bb0/KGTX/CLTX002/db6aaac6f28e871d2b26d8485b472bb0.mp4
+陈奕迅 - 浮夸,https://mvwebfs.tx.kugou.com/202505151504/f4b4a8189783ceb0b70750383d17fa7a/v2/36ef463edbb6babf4b96176744fb3e84/G187/M03/12/01/m5QEAF3yjaKAAZKrBGw8v7terGs035.mp4
+陈奕迅 - 浮夸,https://mvwebfs.kugou.com/202505151506/efeeff893e2b26d5a495bcce0d6b0706/v2/c5c3530a9ca507486a1396f8a31d1776/G135/M00/05/17/xw0DAFtqmmqAVMLSCMM1-Cv-k9M481.mp4
+陈奕迅 - 浮夸,https://mvwebfs.kugou.com/202505151507/7f7730f27ef60116067a725fa1e6a105/v2/2936fda5c3020b7a3b5afe8ed9826b76/G302/M04/12/91/zocBAGVrLZSAMkT7CsrHiEtGM4g9441133
+周杰伦 - 给我一首歌的时间,https://mvwebfs.kugou.com/202505151508/ea41afd2d1d2f082ea8b3b3d38651bc6/KGTX/CLTX002/47776836d00358bd089e43e51076c3ff.mp4
+周杰伦 - 告白气球,https://mvwebfs.kugou.com/202505151509/673877d03fa6b296deadeb43a182afc4/v2/496a19d9e152319dbf2980aef0b7e454/G223/M0B/19/07/f4cBAF8TO5uACrR9CCFgQxy5vlY870.mp4
+周杰伦 - 七里香,https://mvwebfs.tx.kugou.com/202505151511/614ef78aca5bee4c97a8fe87ba06716f/v2/c3922e6c5878082eb2de7b6255f94594/G234/M06/1D/0B/iocBAF8bshKAHWoJCaUEmSjoFvM835.mp4
+周杰伦 - 夜曲,https://mvwebfs.tx.kugou.com/202505151512/d45caca278ad0903424d17bb6584346f/v2/2d27b17b5d987e5b9d087da1527bec35/KGTX/CLTX002/2d27b17b5d987e5b9d087da1527bec35.mp4
+周杰伦 - 霍元甲,https://mvwebfs.tx.kugou.com/202505151516/1148aef69e153b927eded509fd910b8d/v2/2f5c93336a1c637016ecc08c4d77bc28/G251/M0B/0A/1F/Ow4DAGABQneAUit1BT9Ktn6mI8g024.mp4
+刘德华 - 孤星泪https://mvwebfs.kugou.com/202505151521/e7cc53458e9a496140759d83c6f41103/v2/025d542c50d41c4b3798f905354d7d09/G137/M08/1F/11/KYcBAFtqhfmAd4TvBEmdBZB3er4628.mp4
+刘德华 - 无间道，https://mvwebfs.kugou.com/202505151525/1bfd67c2a8e9272b4fa5d1f610d3e1ec/v2/d12d4990432cd277482fc870c85ff234/G086/M02/1B/05/9oYBAFitOwKAR6gZBITM9bFe_MA081.mp4
+刘德华 - 无间道，https://mvwebfs.kugou.com/202505151527/229168d9eee6226d53bda98252e1c53f/v2/4b7fa8f8cc831aa403b71fc7732aa24d/G033/M02/15/15/YQ0DAFXyd2yAYKSWBietVHMxEhQ223.mp4
+刘德华 - 男人哭吧不是罪，https://mvwebfs.kugou.com/202505151529/36dc72eb1b930be6b48eaa6ec75660ca/v2/0a32fc6b997c5ad6c442813b4c97bb58/G138/M07/1D/1B/yg0DAFtqu6KAauz7CYncXht__Rg073.mp4
+大黒摩季 - 只凝视着你，https://mvwebfs.tx.kugou.com/202505151545/22b93acf8fc4ba0990efbeaee808be19/v2/321b399b5a9f863798c102d761bb8ffb/G162/M05/1E/09/gpQEAFydueuAW1sjB2TnmxszD3w423.mp4
+大黒摩季 - 只凝视着你，https://mvwebfs.tx.kugou.com/202505151550/4d517c31ff175cd9546daf53efa167d4/v2/1927b2d7abc1e848ea899e5fa8ab82dd/G215/M0B/0C/13/d4cBAF63Mr6AIASnA2dT2Ut4c4M476.mp4
+大黒摩季 - 只凝视着你，https://mvwebfs.kugou.com/202505151551/cae195de3122be7b115c2fe4c7c752ee/KGTX/CLTX002/32e857728c774420210b2599f7f8911d.mp4
+BAAD - 想要呼喊你的喜欢，https://mvwebfs.kugou.com/202505151553/13f9e2b32052e0d1cdded05afc7e0480/v2/d0b0ab552bc6d493da2d5880ffde3ef1/G075/M07/1C/0B/64YBAFf2N-CAPFRlBV3VQStVxjs881.mp4
+高耀太- 火花，https://mvwebfs.tx.kugou.com/202505151557/be441f59218c4dd2759a6da616d2a65d/v2/381ca936e1a48f55957ed081a2aa2961/KGTX/CLTX002/381ca936e1a48f55957ed081a2aa2961.mp4
+李孝利 - 10 Minutes，https://mvwebfs.kugou.com/202505151600/1cd4c0aa52ff0310bb2b142c468e2510/KGTX/CLTX002/886ef902551b96db2a35e7904dc53c3c.mp4
+李贞贤 - 和https://mvwebfs.kugou.com/202505151604/7dd64b5348c264e6786ea4bf0010c0f0/v2/659d3347ea03df92860644faa920bae9/G031/M01/03/11/v4YBAFXvTi-ADwyYAr-3OlWsLL0718.mp4
+
 
 👙测试①_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
