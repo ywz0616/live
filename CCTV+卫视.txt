@@ -144,12 +144,12 @@ CCTV-8电视剧,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233721/ind
 
 🎶怀旧点唱,#genre#
 CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index.m3u8
-薛之谦 - 演员，https://mvwebfs.tx.kugou.com/202505151411/210329f54bc200d5766cec60c75d0003/v2/247048d2c88accdd57837b52f177772b/G098/M09/03/04/QpQEAFkjFWeAfDx0BbBPyVcUhmk741.mp4
-薛之谦 - 刚刚好，https://mvwebfs.kugou.com/202505151413/7a28a57192c1a7013078a08430fb2805/v2/e731b55ecfe39cfcc051f514bb1a1515/G099/M06/11/11/Q5QEAFkl_XGAT_BDBdRScefykjs821.mp4
-薛之谦 - 传说，https://mvwebfs.kugou.com/202505151418/b65ea5f7058ea5b7d76eb786da2ca6a9/v2/d4a537f71091a90efc915b9d2c51aec7/G142/M00/1A/08/bpQEAFuu5TmAe2FsB-R8LS4l8Qc528.mp4
-薛之谦 - 丑八怪，https://mvwebfs.tx.kugou.com/202505151419/cb11308f669a9b522ae7820aff1c454f/v2/ffc95b99efea8b22274c65ec14b26e91/G080/M07/12/03/MJQEAFhuWFSAUVtABbdIvwjcZ2w981.mp4
-薛之谦 - 初学者，https://mvwebfs.kugou.com/202505151421/95a313567c719c7d1fdbcae6a634d93f/v2/521d7fae507c824eda1096feebf4ea69/G084/M0A/07/11/NJQEAFs_WQOAWmMJCD5SNnpyVJI945.mp4
-薛之谦 - 我好像在哪见过你，https://mvwebfs.kugou.com/202505151426/fce344ecfca560ef1b2d3705eaee3c77/KGTX/CLTX002/302c674f0c87ed61927b5fd12da6a040.mp4
+薛之谦 - 演员,https://mvwebfs.tx.kugou.com/202505151411/210329f54bc200d5766cec60c75d0003/v2/247048d2c88accdd57837b52f177772b/G098/M09/03/04/QpQEAFkjFWeAfDx0BbBPyVcUhmk741.mp4
+薛之谦 - 刚刚好,https://mvwebfs.kugou.com/202505151413/7a28a57192c1a7013078a08430fb2805/v2/e731b55ecfe39cfcc051f514bb1a1515/G099/M06/11/11/Q5QEAFkl_XGAT_BDBdRScefykjs821.mp4
+薛之谦 - 传说,https://mvwebfs.kugou.com/202505151418/b65ea5f7058ea5b7d76eb786da2ca6a9/v2/d4a537f71091a90efc915b9d2c51aec7/G142/M00/1A/08/bpQEAFuu5TmAe2FsB-R8LS4l8Qc528.mp4
+薛之谦 - 丑八怪,https://mvwebfs.tx.kugou.com/202505151419/cb11308f669a9b522ae7820aff1c454f/v2/ffc95b99efea8b22274c65ec14b26e91/G080/M07/12/03/MJQEAFhuWFSAUVtABbdIvwjcZ2w981.mp4
+薛之谦 - 初学者,https://mvwebfs.kugou.com/202505151421/95a313567c719c7d1fdbcae6a634d93f/v2/521d7fae507c824eda1096feebf4ea69/G084/M0A/07/11/NJQEAFs_WQOAWmMJCD5SNnpyVJI945.mp4
+薛之谦 - 我好像在哪见过你,https://mvwebfs.kugou.com/202505151426/fce344ecfca560ef1b2d3705eaee3c77/KGTX/CLTX002/302c674f0c87ed61927b5fd12da6a040.mp4
 薛之谦&张信哲 - 王子公主https://mvwebfs.kugou.com/202505151429/81de94419edc17707968a88e869a16ec/v2/67027e327afb446d46ec8eaeda09eb25/G098/M03/1D/01/AocBAFj3FmaAFJxFA30glt4ME20872.mp4
 谢霆锋-活着viva，https://mvwebfs.kugou.com/202505151432/236fa8c9107b3a527dbe61cba2671b18/v2/a0f524a2ce6f73ae4348d0826fc077f0/G189/M0A/0E/11/XYcBAF4LUueAOOIKBvOKBv_RKDg553.mp4
 谢霆锋-谢谢你的爱1999,https://mvwebfs.kugou.com/202505151433/794f438f053e5dd0612eae6677ab763e/KGTX/CLTX002/9106e1eb78c93dc757a73c90b58dcc7f.mp4
@@ -177,16 +177,16 @@ CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index
 周杰伦 - 七里香,https://mvwebfs.tx.kugou.com/202505151511/614ef78aca5bee4c97a8fe87ba06716f/v2/c3922e6c5878082eb2de7b6255f94594/G234/M06/1D/0B/iocBAF8bshKAHWoJCaUEmSjoFvM835.mp4
 周杰伦 - 夜曲,https://mvwebfs.tx.kugou.com/202505151512/d45caca278ad0903424d17bb6584346f/v2/2d27b17b5d987e5b9d087da1527bec35/KGTX/CLTX002/2d27b17b5d987e5b9d087da1527bec35.mp4
 周杰伦 - 霍元甲,https://mvwebfs.tx.kugou.com/202505151516/1148aef69e153b927eded509fd910b8d/v2/2f5c93336a1c637016ecc08c4d77bc28/G251/M0B/0A/1F/Ow4DAGABQneAUit1BT9Ktn6mI8g024.mp4
-刘德华 - 孤星泪https://mvwebfs.kugou.com/202505151521/e7cc53458e9a496140759d83c6f41103/v2/025d542c50d41c4b3798f905354d7d09/G137/M08/1F/11/KYcBAFtqhfmAd4TvBEmdBZB3er4628.mp4
-刘德华 - 无间道，https://mvwebfs.kugou.com/202505151525/1bfd67c2a8e9272b4fa5d1f610d3e1ec/v2/d12d4990432cd277482fc870c85ff234/G086/M02/1B/05/9oYBAFitOwKAR6gZBITM9bFe_MA081.mp4
-刘德华 - 无间道，https://mvwebfs.kugou.com/202505151527/229168d9eee6226d53bda98252e1c53f/v2/4b7fa8f8cc831aa403b71fc7732aa24d/G033/M02/15/15/YQ0DAFXyd2yAYKSWBietVHMxEhQ223.mp4
-刘德华 - 男人哭吧不是罪，https://mvwebfs.kugou.com/202505151529/36dc72eb1b930be6b48eaa6ec75660ca/v2/0a32fc6b997c5ad6c442813b4c97bb58/G138/M07/1D/1B/yg0DAFtqu6KAauz7CYncXht__Rg073.mp4
-大黒摩季 - 只凝视着你，https://mvwebfs.tx.kugou.com/202505151545/22b93acf8fc4ba0990efbeaee808be19/v2/321b399b5a9f863798c102d761bb8ffb/G162/M05/1E/09/gpQEAFydueuAW1sjB2TnmxszD3w423.mp4
-大黒摩季 - 只凝视着你，https://mvwebfs.tx.kugou.com/202505151550/4d517c31ff175cd9546daf53efa167d4/v2/1927b2d7abc1e848ea899e5fa8ab82dd/G215/M0B/0C/13/d4cBAF63Mr6AIASnA2dT2Ut4c4M476.mp4
-大黒摩季 - 只凝视着你，https://mvwebfs.kugou.com/202505151551/cae195de3122be7b115c2fe4c7c752ee/KGTX/CLTX002/32e857728c774420210b2599f7f8911d.mp4
-BAAD - 想要呼喊你的喜欢，https://mvwebfs.kugou.com/202505151553/13f9e2b32052e0d1cdded05afc7e0480/v2/d0b0ab552bc6d493da2d5880ffde3ef1/G075/M07/1C/0B/64YBAFf2N-CAPFRlBV3VQStVxjs881.mp4
-高耀太- 火花，https://mvwebfs.tx.kugou.com/202505151557/be441f59218c4dd2759a6da616d2a65d/v2/381ca936e1a48f55957ed081a2aa2961/KGTX/CLTX002/381ca936e1a48f55957ed081a2aa2961.mp4
-李孝利 - 10分钟，https://mvwebfs.kugou.com/202505151600/1cd4c0aa52ff0310bb2b142c468e2510/KGTX/CLTX002/886ef902551b96db2a35e7904dc53c3c.mp4
+刘德华 - 孤星泪,https://mvwebfs.kugou.com/202505151521/e7cc53458e9a496140759d83c6f41103/v2/025d542c50d41c4b3798f905354d7d09/G137/M08/1F/11/KYcBAFtqhfmAd4TvBEmdBZB3er4628.mp4
+刘德华 - 无间道,https://mvwebfs.kugou.com/202505151525/1bfd67c2a8e9272b4fa5d1f610d3e1ec/v2/d12d4990432cd277482fc870c85ff234/G086/M02/1B/05/9oYBAFitOwKAR6gZBITM9bFe_MA081.mp4
+刘德华 - 无间道,https://mvwebfs.kugou.com/202505151527/229168d9eee6226d53bda98252e1c53f/v2/4b7fa8f8cc831aa403b71fc7732aa24d/G033/M02/15/15/YQ0DAFXyd2yAYKSWBietVHMxEhQ223.mp4
+刘德华 - 男人哭吧不是罪,https://mvwebfs.kugou.com/202505151529/36dc72eb1b930be6b48eaa6ec75660ca/v2/0a32fc6b997c5ad6c442813b4c97bb58/G138/M07/1D/1B/yg0DAFtqu6KAauz7CYncXht__Rg073.mp4
+大黒摩季 - 只凝视着你,https://mvwebfs.tx.kugou.com/202505151545/22b93acf8fc4ba0990efbeaee808be19/v2/321b399b5a9f863798c102d761bb8ffb/G162/M05/1E/09/gpQEAFydueuAW1sjB2TnmxszD3w423.mp4
+大黒摩季 - 只凝视着你,https://mvwebfs.tx.kugou.com/202505151550/4d517c31ff175cd9546daf53efa167d4/v2/1927b2d7abc1e848ea899e5fa8ab82dd/G215/M0B/0C/13/d4cBAF63Mr6AIASnA2dT2Ut4c4M476.mp4
+大黒摩季 - 只凝视着你,https://mvwebfs.kugou.com/202505151551/cae195de3122be7b115c2fe4c7c752ee/KGTX/CLTX002/32e857728c774420210b2599f7f8911d.mp4
+BAAD - 想要呼喊你的喜欢,https://mvwebfs.kugou.com/202505151553/13f9e2b32052e0d1cdded05afc7e0480/v2/d0b0ab552bc6d493da2d5880ffde3ef1/G075/M07/1C/0B/64YBAFf2N-CAPFRlBV3VQStVxjs881.mp4
+高耀太- 火花,https://mvwebfs.tx.kugou.com/202505151557/be441f59218c4dd2759a6da616d2a65d/v2/381ca936e1a48f55957ed081a2aa2961/KGTX/CLTX002/381ca936e1a48f55957ed081a2aa2961.mp4
+李孝利 - 10分钟,https://mvwebfs.kugou.com/202505151600/1cd4c0aa52ff0310bb2b142c468e2510/KGTX/CLTX002/886ef902551b96db2a35e7904dc53c3c.mp4
 李贞贤 - 和,https://mvwebfs.kugou.com/202505151604/7dd64b5348c264e6786ea4bf0010c0f0/v2/659d3347ea03df92860644faa920bae9/G031/M01/03/11/v4YBAFXvTi-ADwyYAr-3OlWsLL0718.mp4
 
 
