@@ -135,15 +135,18 @@ CCTV-5+体育赛事,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724
 
 
 🎬电影频道,#genre#
+CCTV-6电影,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233713/index.m3u8
 
 
 🏛经典剧场,#genre#
+CCTV-8电视剧,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233721/index.m3u8
 
 
 🎶怀旧点唱,#genre#
+CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index.m3u8
 
 
-👙测试①_15549500059,#genre#
+👙测试①_15549500059
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
 FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
 FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
@@ -175,7 +178,7 @@ FC2 PPV 3252242,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91955/hls
 FC2 PPV 3288157,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91959/hls/index.m3u8
 
 
-👙测试②_15549500059,#genre#
+👙测试②_15549500059
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
 FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
 FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
@@ -206,8 +209,7 @@ FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91942/hls
 FC2 PPV 3252242,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91955/hls/index.m3u8
 FC2 PPV 3288157,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91959/hls/index.m3u8
 
-
-👙测试③_15549500059,#genre#
+👙测试③_15549500059
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
 FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
 FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
