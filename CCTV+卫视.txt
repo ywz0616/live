@@ -186,8 +186,8 @@ CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index
 大黒摩季 - 只凝视着你，https://mvwebfs.kugou.com/202505151551/cae195de3122be7b115c2fe4c7c752ee/KGTX/CLTX002/32e857728c774420210b2599f7f8911d.mp4
 BAAD - 想要呼喊你的喜欢，https://mvwebfs.kugou.com/202505151553/13f9e2b32052e0d1cdded05afc7e0480/v2/d0b0ab552bc6d493da2d5880ffde3ef1/G075/M07/1C/0B/64YBAFf2N-CAPFRlBV3VQStVxjs881.mp4
 高耀太- 火花，https://mvwebfs.tx.kugou.com/202505151557/be441f59218c4dd2759a6da616d2a65d/v2/381ca936e1a48f55957ed081a2aa2961/KGTX/CLTX002/381ca936e1a48f55957ed081a2aa2961.mp4
-李孝利 - 10 Minutes，https://mvwebfs.kugou.com/202505151600/1cd4c0aa52ff0310bb2b142c468e2510/KGTX/CLTX002/886ef902551b96db2a35e7904dc53c3c.mp4
-李贞贤 - 和https://mvwebfs.kugou.com/202505151604/7dd64b5348c264e6786ea4bf0010c0f0/v2/659d3347ea03df92860644faa920bae9/G031/M01/03/11/v4YBAFXvTi-ADwyYAr-3OlWsLL0718.mp4
+李孝利 - 10分钟，https://mvwebfs.kugou.com/202505151600/1cd4c0aa52ff0310bb2b142c468e2510/KGTX/CLTX002/886ef902551b96db2a35e7904dc53c3c.mp4
+李贞贤 - 和,https://mvwebfs.kugou.com/202505151604/7dd64b5348c264e6786ea4bf0010c0f0/v2/659d3347ea03df92860644faa920bae9/G031/M01/03/11/v4YBAFXvTi-ADwyYAr-3OlWsLL0718.mp4
 
 
 👙测试①_15549500059,#genre#
