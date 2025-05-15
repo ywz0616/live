@@ -136,7 +136,7 @@ CCTV-5+体育赛事,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724
 
 🎶怀旧点唱,#genre#
 
-👙测试专线①_15549500059,#genre#
+👙测试①_15549500059,#genre#
 FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
 FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
 FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
@@ -166,6 +166,67 @@ FC2 PPV 3430718,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91954/hls
 FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91942/hls/index.m3u8
 FC2 PPV 3252242,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91955/hls/index.m3u8
 FC2 PPV 3288157,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91959/hls/index.m3u8
-👙测试专线②_15549500059,#genre#
 
-👙测试专线③_15549500059,#genre#
+
+👙测试②_15549500059,#genre#
+FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
+FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
+FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
+FC2 PPV 3595418,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e5/hls/index.m3u8
+FC2 PPV 3582381,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e7/hls/index.m3u8
+FC2 PPV 3313806,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91963/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9194a/hls/index.m3u8
+FC2 PPV 3452545,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195d/hls/index.m3u8
+FC2 PPV 3148902,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91949/hls/index.m3u8
+FC2 PPV 3178033,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9194c/hls/index.m3u8
+FC2 PPV 3281892,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91947/hls/index.m3u8
+FC2 PPV 3363279,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195a/hls/index.m3u8
+FC2 PPV 1480904,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91960/hls/index.m3u8
+FC2 PPV 2826118,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91946/hls/index.m3u8
+FC2 PPV 3301922,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91962/hls/index.m3u8
+FC2 PPV 3391280,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195e/hls/index.m3u8
+FC2 PPV 3116452,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195f/hls/index.m3u8
+FC2 PPV 3252240,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195c/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91948/hls/index.m3u8
+FC2 PPV 3381039,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195b/hls/index.m3u8
+FC2 PPV 3363282,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91953/hls/index.m3u8
+FC2 PPV 3447565,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91945/hls/index.m3u8
+FC2 PPV 3463077,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91957/hls/index.m3u8
+FC2 PPV 3119206,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91943/hls/index.m3u8
+FC2 PPV 3281892,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91944/hls/index.m3u8
+FC2 PPV 3430718,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91954/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91942/hls/index.m3u8
+FC2 PPV 3252242,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91955/hls/index.m3u8
+FC2 PPV 3288157,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91959/hls/index.m3u8
+
+
+👙测试③_15549500059,#genre#
+FC2 PPV 3582507,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4c4/hls/index.m3u8
+FC2 PPV 3575791,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e8/hls/index.m3u8
+FC2 PPV 3577715,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4ef/hls/index.m3u8
+FC2 PPV 3595418,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e5/hls/index.m3u8
+FC2 PPV 3582381,https://m3u8.34cdn.com/newhd/202312/6588d2407ebb8b1bc4c9c4e7/hls/index.m3u8
+FC2 PPV 3313806,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91963/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9194a/hls/index.m3u8
+FC2 PPV 3452545,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195d/hls/index.m3u8
+FC2 PPV 3148902,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91949/hls/index.m3u8
+FC2 PPV 3178033,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9194c/hls/index.m3u8
+FC2 PPV 3281892,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91947/hls/index.m3u8
+FC2 PPV 3363279,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195a/hls/index.m3u8
+FC2 PPV 1480904,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91960/hls/index.m3u8
+FC2 PPV 2826118,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91946/hls/index.m3u8
+FC2 PPV 3301922,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91962/hls/index.m3u8
+FC2 PPV 3391280,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195e/hls/index.m3u8
+FC2 PPV 3116452,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195f/hls/index.m3u8
+FC2 PPV 3252240,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195c/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91948/hls/index.m3u8
+FC2 PPV 3381039,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c9195b/hls/index.m3u8
+FC2 PPV 3363282,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91953/hls/index.m3u8
+FC2 PPV 3447565,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91945/hls/index.m3u8
+FC2 PPV 3463077,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91957/hls/index.m3u8
+FC2 PPV 3119206,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91943/hls/index.m3u8
+FC2 PPV 3281892,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91944/hls/index.m3u8
+FC2 PPV 3430718,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91954/hls/index.m3u8
+FC2 PPV 3382006,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91942/hls/index.m3u8
+FC2 PPV 3252242,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91955/hls/index.m3u8
+FC2 PPV 3288157,https://m3u8.34cdn.com/newhd/202312/657485e37ebb8b1bc4c91959/hls/index.m3u8
