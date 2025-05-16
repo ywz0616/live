@@ -136,6 +136,13 @@ CCTV-5+体育赛事,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724
 
 🎬电影频道,#genre#
 CCTV-6电影,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233713/index.m3u8
+大内密探零零发,https://m3u8i.vodfile.m1905.com/202505170928/8671c4fd9a678c4fc0094a24fe826107/movie/2014/12/29/m20141229FK1JOWB82TBDN77O/m20141229FK1JOWB82TBDN77O.m3u8
+赤子威龙,https://m3u8i.vodfile.m1905.com/202505170930/d5d9b8146c963b118b576eac7896e71b/movie/2014/07/02/m20140702SV8RFSQYABGZDB43/m20140702SV8RFSQYABGZDB43.m3u8
+古镜怪谈,https://m3u8i.vodfile.m1905.com/202505170933/2141c1c62f71c38c57debe8845124e12/movie/2020/04/16/m20200416ZOL7IX2W6OBLDL6K/EDD822A49BAAF84FE41F0B8A7.m3u8
+情癫大圣,https://m3u8i.vodfile.m1905.com/202505170935/28a9f138dc73e2586867d7807848e602/movie/2019/10/18/m201910185O057FHLS9G7K1FR/9A3EEE38DCAF44BF9B0AF54A8.m3u8
+青年干探,https://m3u8i.vodfile.m1905.com/202505170937/80c5f976780cb6f1565ab8f4c7c1257d/movie/2014/05/26/m20140526YXNPCIN9JRFH93G8/m20140526YXNPCIN9JRFH93G8.m3u8
+追杀证人,https://m3u8i.vodfile.m1905.com/202505170946/699f4cb69dc23c65463d5d79a2b78729/movie/wIknxFCB1yRHRJxT.m3u8
+生死对决,https://m3u8i.vodfile.m1905.com/202505170951/32db8477e44f6ab4161c1061a77dce59/movie/2016/05/09/m20160509NC0LH1U0BH7Y0YPB/0ADD33DC6EE96EA5B29574FC5.m3u8
 
 
 🏛经典剧场,#genre#
@@ -181,6 +188,25 @@ CCTV-15音乐,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233698/index
 刘德华 - 无间道,https://mvwebfs.kugou.com/202505151525/1bfd67c2a8e9272b4fa5d1f610d3e1ec/v2/d12d4990432cd277482fc870c85ff234/G086/M02/1B/05/9oYBAFitOwKAR6gZBITM9bFe_MA081.mp4
 刘德华 - 无间道,https://mvwebfs.kugou.com/202505151527/229168d9eee6226d53bda98252e1c53f/v2/4b7fa8f8cc831aa403b71fc7732aa24d/G033/M02/15/15/YQ0DAFXyd2yAYKSWBietVHMxEhQ223.mp4
 刘德华 - 男人哭吧不是罪,https://mvwebfs.kugou.com/202505151529/36dc72eb1b930be6b48eaa6ec75660ca/v2/0a32fc6b997c5ad6c442813b4c97bb58/G138/M07/1D/1B/yg0DAFtqu6KAauz7CYncXht__Rg073.mp4
+林俊杰 - 江南,https://mvwebfs.kugou.com/202505151750/0bf34d375889fd82340875085055061f/v2/51f9afb5ea972242eea77bffc582e3ee/G093/M03/0D/11/nQ0DAFu8TxyAYUnVCBRjo3EkGdE707.mp4
+林俊杰&金莎 - 被风吹过的夏天,https://mvwebfs.kugou.com/202505151805/8ef4f9f707898264addd2aeca5f0c5c9/v2/52cbb38068ee0b6d3218289719a8982a/G109/M09/0E/01/TZQEAFvjbsWAWvrxASgJfLN670g576.mp4
+林俊杰 - 一千年以后,https://mvwebfs.kugou.com/202505151806/1d4642714b628b6f268752b02402a804/KGTX/CLTX002/d27252c7844d373590d5b4e1bd148708.mp4
+林俊杰 - 曹操,https://mvwebfs.kugou.com/202505151812/f602484031d65f54d49464c7ae7e0073/KGTX/CLTX002/7081600abb751cc867d322871c1d7df9.mp4
+林俊杰 - 不潮不用花钱,https://mvwebfs.kugou.com/202505151809/d93d3d7b7c360db3416439667839268b/v2/be23518292c677d4059e6c4529b2d386/G139/M04/0F/19/a5QEAFtvJP2AS1GOA7Dm-aLTnDU162.mp4
+徐怀钰 - 分飞,https://mvwebfs.tx.kugou.com/202505151814/c2aece63b28ae4b22a382d7b4ed182cf/v2/dcd60b368ec63cfd1abdd8ada90f43c6/KGTX/CLTX002/dcd60b368ec63cfd1abdd8ada90f43c6.mp4
+小虎队 - 爱 + 蝴蝶飞呀 + 青苹果乐园,https://mvwebfs.tx.kugou.com/202505151817/80214c5e6c1d6cb5acdbc682eb6ad01d/v2/d2297c2766fce4da2be842e72ba7df9e/G137/M03/0B/15/KYcBAFtrCpWAFNd0B1o87IFYBCE440.mp4
+王菲 - 传奇,https://mvwebfs.tx.kugou.com/202505151819/5e8d392adbabd566b429bd9581b2ca8e/v2/a0b12b7a6a652b29eb1018bbdda3aad6/G252/M09/17/01/PA4DAF_TQ66ARPleB2JwWORCQqM605.mp4
+王菲 - 偿还,https://mvwebfs.kugou.com/202505151821/2b01c590d20978216cd4ce0757de6912/v2/f206a641510395867b94a5db856afd8a/G093/M05/13/05/PZQEAFuxELCAJrySA8L46Y-7zmQ666.mp4
+王菲 - 暗涌,https://mvwebfs.tx.kugou.com/202505151824/b460dd4227f07ef6de5926f064ab1c49/v2/c406e860067952e72d58ef1dca45d8e0/G250/M07/0B/13/Og4DAF_TP8mAekmqAofW7N0be5I159.mp4
+王菲 - 暧昧,https://mvwebfs.tx.kugou.com/202505151825/3287b83296e1531e50c137c684682eb7/v2/ea1d8d47cc4d5642ec03b96437e36bc0/KGTX/CLTX002/ea1d8d47cc4d5642ec03b96437e36bc0.mp4
+王菲 - 爱与痛的边缘,https://mvwebfs.kugou.com/202505151827/f553cc9b83ad0447b2e18f2872f32bcc/KGTX/CLTX002/6bb226e99af3ef0fbdb1a3286cfc71b7.mp4
+王菲 - 闷,https://mvwebfs.kugou.com/202505151830/9fff3d669125641bfdaf34d387bf5bb9/KGTX/CLTX002/2184777a23e88142c1cd29392140ede8.mp4
+王菲 - 棋子,https://mvwebfs.tx.kugou.com/202505151831/632d48a2a34bb152721110d5f5c0a395/v2/59195864798233189d6521284a8329fe/G228/M05/12/14/hIcBAF9sQlKATayYAUxPTEZZM00261.mp4
+王菲 - 容易受伤的女人,https://mvwebfs.kugou.com/202505151832/cd472507bf50bec36d09b533c53dd7c8/v2/11f28e0f91d469fd8d2860370ae3771a/G146/M00/0B/09/cpQEAFu9X-iAEWKaBA9zhlEZ65w113.mp4
+王菲 - 执迷不悔,https://mvwebfs.kugou.com/202505151833/0a10849426b0ae5b881c7cb74df3c46a/v2/607444b6718b3b1ce37be5e45f4276fe/G092/M02/01/03/_IYBAFu9B7aASzDyAUCAIlaVCEs795.mp4
+黎明 - 愿你今夜别离去,https://mvwebfs.tx.kugou.com/202505151835/4492ac46817456b299c276025f8d0533/v2/04cbb5c142557c4c69ef437448d9bb25/G104/M05/17/03/qA0DAFkkSUqAFM4SBEjXgB0sGx8790.mp4
+郭富城 - Para Para Sakura,https://mvwebfs.tx.kugou.com/202505151837/563ac582d8dfe5ca4960f4caa81afe2e/v2/594973d91f9d5a5a1b152466c7d152b3/G197/M05/15/07/ZYcBAF5GkT6AQXmRBtzQsRAvVXo525.mp4
+郭富城 - 对你爱不完,https://mvwebfs.kugou.com/202505151839/db93335e576addec3732e23123d8905e/v2/da61e6d26bc7ce8e7fafee08968c6da4/G090/M08/19/09/OpQEAFidcQqAX_4tBMwEgcwdRnc531.mp4
 大黒摩季 - 只凝视着你,https://mvwebfs.tx.kugou.com/202505151545/22b93acf8fc4ba0990efbeaee808be19/v2/321b399b5a9f863798c102d761bb8ffb/G162/M05/1E/09/gpQEAFydueuAW1sjB2TnmxszD3w423.mp4
 大黒摩季 - 只凝视着你,https://mvwebfs.tx.kugou.com/202505151550/4d517c31ff175cd9546daf53efa167d4/v2/1927b2d7abc1e848ea899e5fa8ab82dd/G215/M0B/0C/13/d4cBAF63Mr6AIASnA2dT2Ut4c4M476.mp4
 大黒摩季 - 只凝视着你,https://mvwebfs.kugou.com/202505151551/cae195de3122be7b115c2fe4c7c752ee/KGTX/CLTX002/32e857728c774420210b2599f7f8911d.mp4
